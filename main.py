@@ -1,6 +1,7 @@
 # main.py, CS 111 Final Project. Variation of the classic Frogger game.
 # Code by Avery Blumenthal and Henrie Friesen
-# Carleton College, CS 111 with DLN, last edited June 5, 2020
+# Carleton College, CS 111 with David Liben-Nowell, last edited
+#   June 5, 2020
 # Uses graphics.py from Zelle "Python Programming: An Introduction
 #   to Computer Science" (Franklin, Beedle & Associates).
 
